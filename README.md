@@ -10,10 +10,10 @@ I care about the operating side of digital marketing — the workflows, reportin
 
 ## 🔗 Links
 
-- **Portfolio:** [sabooralikhan.com](https://sabooralikhan.com)
+- **Portfolio:** [sabooralikhan.com](https://www.sabooralikhan.com)
 - **LinkedIn:** [linkedin.com/in/sabooralikhan](https://www.linkedin.com/in/sabooralikhan/)
-- **Blog:** [sabooralikhan.com/blog](https://sabooralikhan.com/blog)
-- **Resume Builder:** [sabooralikhan.com/tools/resume-builder](https://sabooralikhan.com/tools/resume-builder)
+- **Blog:** [sabooralikhan.com/blog](https://www.sabooralikhan.com/blog)
+- **Resume Builder:** [sabooralikhan.com/tools/resume-builder](https://www.sabooralikhan.com/tools/resume-builder)
 - **Projects:** [github.com/SAK-124?tab=repositories](https://github.com/SAK-124?tab=repositories)
 - **Email:** contact@sabooralikhan.com
 
@@ -31,7 +31,7 @@ I care about the operating side of digital marketing — the workflows, reportin
 
 | Automation & AI | SEO & Analytics | Build & Product |
 |---|---|---|
-| n8n · HubSpot · Kwanzoo · Make | Ahrefs · Google Search Console · Google Analytics | Next.js · TypeScript · Supabase |
+| n8n · HubSpot · Kwanzoo · Make | Google Search Console · Google Analytics · Technical SEO monitoring | Next.js · TypeScript · Supabase |
 | Claude Code · Codex · Google Stitch | Technical SEO monitoring · Reporting systems | Tailwind · Vercel · Firebase |
 | LLM-assisted workflow design | Search-readiness operations | Internal tool design |
 
@@ -47,13 +47,13 @@ I care about the operating side of digital marketing — the workflows, reportin
 | [**nebula-stack-enterprise-tech**](https://github.com/SAK-124/nebula-stack-enterprise-tech) | Enterprise-tech website demo built with React, TypeScript, and Supabase. |
 | [**ultimate-tictactoe-android**](https://github.com/SAK-124/ultimate-tictactoe-android) | Multiplayer Android app built with Kotlin, Jetpack Compose, and Firebase. |
 
-Case studies for the private 10Pearls systems (outreach automation, SEO monitoring workflow, marketing-ops orchestrator, Kwanzoo workflow integrations) live on the portfolio at [sabooralikhan.com/projects](https://sabooralikhan.com/projects).
+Case studies for the private 10Pearls systems (outreach automation, SEO monitoring workflow, marketing-ops orchestrator, Kwanzoo workflow integrations) live on the portfolio at [sabooralikhan.com/projects](https://www.sabooralikhan.com/projects).
 
 ---
 
 ## ✍️ Writing
 
-I publish short, practical essays on marketing automation, technical SEO, AI workflows, and the tools behind them at [sabooralikhan.com/blog](https://sabooralikhan.com/blog). Recent drafts:
+I publish short, practical essays on marketing automation, technical SEO, AI workflows, and the tools behind them at [sabooralikhan.com/blog](https://www.sabooralikhan.com/blog). Recent drafts:
 
 - How I Think About Marketing Automation as a BBA Marketing Student at IBA Karachi
 - Technical SEO Monitoring: A Practical Operating Model That Does Not Rot
@@ -69,7 +69,7 @@ I publish short, practical essays on marketing automation, technical SEO, AI wor
 - Technical SEO monitoring and reporting systems
 - Marketing operations — workflow design, documentation, repeatable execution
 - AI-assisted workflow design that actually holds up in production
-- Public tools: the [resume builder](https://sabooralikhan.com/tools/resume-builder) and the portfolio's SEO surface
+- Public tools: the [resume builder](https://www.sabooralikhan.com/tools/resume-builder) and the portfolio's SEO surface
 
 ---
 
@@ -79,6 +79,6 @@ If you are hiring for marketing operations, technical SEO, or workflow automatio
 
 - Email → **contact@sabooralikhan.com**
 - LinkedIn → **[linkedin.com/in/sabooralikhan](https://www.linkedin.com/in/sabooralikhan/)**
-- Portfolio → **[sabooralikhan.com](https://sabooralikhan.com)**
+- Portfolio → **[sabooralikhan.com](https://www.sabooralikhan.com)**
 
 <sub>This is Saboor Ali Khan the marketing-operations / technical-SEO professional (IBA Karachi · 10Pearls Pakistan · GitHub <code>SAK-124</code>) — not the Pakistani television actress of the same name.</sub>
